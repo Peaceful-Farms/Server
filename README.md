@@ -1,4 +1,4 @@
-# Peaceful Farms Global Bug reports.
+# Peaceful Farms Global Bug Reports.
 
 Hello. If you have found a bug and you would like to report said bug, please create a pull request in which shall be responded to from either one of our developers or the appropriate member.
 
